@@ -1,0 +1,16 @@
+#include <iostream>
+#include <cstdio>
+#include <cmath>
+#include <cstdlib>
+
+using namespace std;
+
+int main()
+{
+	//cout << "HelloWorld!" << endl;//<<是插入运算符 
+	printf("HelloWorld!");
+	cin.get();
+	//system("pause");
+	return 0;
+
+}
